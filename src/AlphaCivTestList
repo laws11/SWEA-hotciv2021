@@ -1,0 +1,39 @@
+[x] Red is the first player in turn
+[x] after Red it is Blue that is in turn
+[x] Red starts each round
+[x] Red's city is at (1,1)
+[x] Blue's city is at (4,1)
+[x] Red Settler at (4,3)
+[x] Blue legion at (3,2)
+[x] Red archer at (2,0)
+[x] there is ocean at (1,0)
+[x] hills at (0,1)
+[x] mountains at (2,2)
+[x] plains at most of the tiles
+[x] Blue cannot move red's units
+[x] Red cannot move blue's units
+[x] Red can move his unit
+[x] cities produce 6 `production' after first round has ended
+[x] cities has 12 production after second round
+[x] Game starts in 4000 bc
+[x] after 2 rounds game age is 3800 bc
+[x] cities' population size is always 1
+[x] Red wins in year 3000 BC
+[x] Red doesn't win in year 4000 BC
+[x] Units can't move to tiles with mountain
+[x] Units can't move to tiles with ocean
+[x] Red's archer attack and destroy Blue legion
+[x] Blue legion attack and destroy red archer
+[x] Blue legion conquers red city
+[x] city produces archer after 2 rounds
+[x] city can produce legion after 3 rounds
+
+[x] only one unit allowed on a tile
+[x] Treasury should decrease by 10 when producing an archer
+[x] treasury should decrease by 15 when producing a Legion
+[x]Producing more than one unit should place them correctly around the city
+[x] Red player should not be able to change production of blue player
+Producing 5 units at redCity should not put unit on mountain tile
+[x] unit should not be able to move 2 tiles
+[x] unit should not be able to move twice in one turn
+

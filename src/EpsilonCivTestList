@@ -1,0 +1,9 @@
+[X] Attacking unit should win with higher attack power than defending units defensive strength
+[X] Attacking unit should lose with lower attack power than defending units defensive strength
+[X] Unit supported by other units should have increased combat power
+[X] Unit on city should have combat power multiplied by 3
+[X] Unit on forest tile should have combat power multiplied by 2
+[X] Unit on hill tile should have combat power multiplied by 2
+[X] A unit wins over a stronger opponent if it has a good die roll
+[X] Red player winning 3 attacks means they win
+[X] Blue player winning 3 attacks means they win
